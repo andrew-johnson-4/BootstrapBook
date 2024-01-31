@@ -7,3 +7,9 @@ Learn how to Write a Compiler in 2000 Lines of Code
 The code is roughly 2000 LOC in length, but it is very terse, so the explanation takes a while.
 The generated code is in the format of GNU Assembly for legibility.
 Binary targets are just as easy to write, but harder to read.
+
+### [Chapter 1: S-Expressions](https://github.com/andrew-johnson-4/BootstrapBook/wiki/S%E2%80%90Expressions)
+* [The S-Expression Type Signature](https://github.com/andrew-johnson-4/BootstrapBook/wiki/S%E2%80%90Expressions#the-type-signature)
+* [Why are S-Expressions Good](https://github.com/andrew-johnson-4/BootstrapBook/wiki/S%E2%80%90Expressions#why-are-s-expressions-good)
+* [How Do We Construct An S-Expression in Assembly](https://github.com/andrew-johnson-4/BootstrapBook/wiki/S%E2%80%90Expressions#how-do-we-construct-an-s-expression-in-assembly)
+* [What Common Functions Operate on S-Expressions](https://github.com/andrew-johnson-4/BootstrapBook/wiki/S%E2%80%90Expressions#what-common-functions-operate-on-s-expressions)
