@@ -19,3 +19,6 @@ Binary targets are just as easy to write, but harder to read.
 * [What Do We Expect From a Function Inside the Compiler?](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Primitive-Functions#what-do-we-expect-from-a-function-inside-the-compiler)
 * [System Calls](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Primitive-Functions#system-calls)
 * [The `print-s` Function](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Primitive-Functions#the-print-s-function)
+
+
+Also, this is secretly a project to develop the production compiler for λ☶, so there are places where the code might be slightly different.
