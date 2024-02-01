@@ -23,6 +23,3 @@ Binary targets are just as easy to write, but harder to read.
 * [The `not` Function](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Primitive-Functions#the-not-function)
 * [The `write-file` Function](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Primitive-Functions#the-write-file-function)
 * [The `load-file` Function](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Primitive-Functions#the-load-file-function)
-
-
-Also, this is secretly a project to develop the production compiler for λ☶, so there are places where the code might be slightly different.
