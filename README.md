@@ -13,3 +13,9 @@ Binary targets are just as easy to write, but harder to read.
 * [Why are S-Expressions Good](https://github.com/andrew-johnson-4/BootstrapBook/wiki/S%E2%80%90Expressions#why-are-s-expressions-good)
 * [How Do We Construct An S-Expression in Assembly](https://github.com/andrew-johnson-4/BootstrapBook/wiki/S%E2%80%90Expressions#how-do-we-construct-an-s-expression-in-assembly)
 * [What Common Functions Operate on S-Expressions](https://github.com/andrew-johnson-4/BootstrapBook/wiki/S%E2%80%90Expressions#what-common-functions-operate-on-s-expressions)
+
+### [Chapter 2: Primitive Functions](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Primitive-Functions)
+* [What Is a Function?](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Primitive-Functions#what-is-a-function)
+* [What Do We Expect From a Function Inside the Compiler?](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Primitive-Functions#what-do-we-expect-from-a-function-inside-the-compiler)
+* [System Calls](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Primitive-Functions#system-calls)
+* [The `print-s` Function](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Primitive-Functions#the-print-s-function)
