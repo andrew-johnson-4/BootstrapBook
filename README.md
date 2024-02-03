@@ -27,3 +27,5 @@ Binary targets are just as easy to write, but harder to read.
 ### [Chapter 3: Hello World](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Hello-World)
 * [Program Layout](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Hello-World#program-layout)
 * [Processing Argv](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Hello-World#processing-argv)
+* [Heap Allocation of Atoms](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Hello-World#heap-allocation-of-atoms)
+* [Heap Allocation of Cons Cells](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Hello-World#heap-allocation-of-cons-cells)
