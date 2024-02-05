@@ -29,3 +29,8 @@ Binary targets are just as easy to write, but harder to read.
 * [Processing Argv](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Hello-World#processing-argv)
 * [Heap Allocation of Atoms](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Hello-World#heap-allocation-of-atoms)
 * [Heap Allocation of Cons Cells](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Hello-World#heap-allocation-of-cons-cells)
+
+### [Chapter 4: User-Defined Functions](https://github.com/andrew-johnson-4/BootstrapBook/wiki/User%E2%80%90Defined-Functions)
+* [First-Order Functions](https://github.com/andrew-johnson-4/BootstrapBook/wiki/User%E2%80%90Defined-Functions#what-does-a-first-order-function-look-like)
+* [Passing Multiple Arguments to a Function](https://github.com/andrew-johnson-4/BootstrapBook/wiki/User%E2%80%90Defined-Functions#how-are-multiple-arguments-passed-to-a-function)
+* [Higher-Order Functions](https://github.com/andrew-johnson-4/BootstrapBook/wiki/User%E2%80%90Defined-Functions#what-do-higher-order-functions-look-like)
