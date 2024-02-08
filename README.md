@@ -38,3 +38,7 @@ Binary targets are just as easy to write, but harder to read.
 ### [Chapter 5: Tokenization](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Tokenizer)
 * [The Tokenizer Function](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Tokenizer#the-tokenizer-function)
 * [Tokenization by Example](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Tokenizer#tokenization-by-example)
+
+### [Chapter 6: Parsing](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Parser)
+* [The Abstract Syntax Tree](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Parser#the-abstract-syntax-tree)
+* The Parser Function
