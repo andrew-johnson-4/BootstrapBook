@@ -42,7 +42,7 @@ Binary targets are just as easy to write, but harder to read.
 ### [Chapter 6: Parsing](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Parser)
 * [The Abstract Syntax Tree](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Parser#the-abstract-syntax-tree)
 
-### [Code Generation](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Code-Generation)
+### [Chapter 7: Code Generation](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Code-Generation)
 * [The Expression Datatype](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Code-Generation#the-expression-structure)
 * [The `compile-expr` Function](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Code-Generation#the-compile-expr-function)
 * [Codegen `this` Expressions](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Code-Generation#codegen-this-expressions)
