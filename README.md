@@ -41,6 +41,10 @@ Binary targets are just as easy to write, but harder to read.
 
 ### [Chapter 6: Parsing](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Parser)
 * [The Abstract Syntax Tree](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Parser#the-abstract-syntax-tree)
+* [The `parse-program` Function](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Parser#the-parse-program-function)
+* [The `parse-many-expressions` Function](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Parser#the-parse-many-expressions-function)
+* [The `parse-one-expression` Function](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Parser#the-parse-one-expression-function)
+* [The `parse-lambda` Function](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Parser#the-parse-lambda-function)
 
 ### [Chapter 7: Code Generation](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Code-Generation)
 * [The Expression Datatype](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Code-Generation#the-expression-structure)
@@ -59,7 +63,4 @@ Binary targets are just as easy to write, but harder to read.
 * [Codegen Cons Expressions](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Code-Generation#codegen-cons-expressions)
 * [Codegen Nil Expressions](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Code-Generation#codegen-nil-expressions)
 * [Codegen Variable Expressions](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Code-Generation#codegen-variable-expressions)
-* [The `parse-program` Function](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Parser#the-parse-program-function)
-* [The `parse-many-expressions` Function](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Parser#the-parse-many-expressions-function)
-* [The `parse-one-expression` Function](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Parser#the-parse-one-expression-function)
-* [The `parse-lambda` Function](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Parser#the-parse-lambda-function)
+
