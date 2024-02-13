@@ -64,3 +64,7 @@ Binary targets are just as easy to write, but harder to read.
 * [Codegen Nil Expressions](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Code-Generation#codegen-nil-expressions)
 * [Codegen Variable Expressions](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Code-Generation#codegen-variable-expressions)
 
+### [Chapter 8: Type Checking](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Type-Checking)
+* [Defining a Type Context](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Type-Checking#defining-a-type-context)
+* [Parsing a Type Definition](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Type-Checking#parsing-a-type-definition)
+
