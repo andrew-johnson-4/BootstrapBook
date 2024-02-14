@@ -67,4 +67,10 @@ Binary targets are just as easy to write, but harder to read.
 ### [Chapter 8: Type Checking](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Type-Checking)
 * [Defining a Type Context](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Type-Checking#defining-a-type-context)
 * [Parsing a Type Definition](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Type-Checking#parsing-a-type-definition)
+* [Enumerating Inference Cases](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Type-Checking#enumerating-inference-cases)
+* [Infer Type of an Ascription](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Type-Checking#infer-type-of-an-ascription)
+* [Infer Type of a Literal](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Type-Checking#infer-type-of-a-literal)
+* [Infer Type of a Variable](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Type-Checking#infer-type-of-a-variable)
+* [Infer Type of an Application](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Type-Checking#infer-type-of-an-application)
+* [Infer Type of a Lambda](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Type-Checking#infer-type-of-a-lambda)
 
