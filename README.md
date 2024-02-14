@@ -46,7 +46,17 @@ Binary targets are just as easy to write, but harder to read.
 * [The `parse-one-expression` Function](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Parser#the-parse-one-expression-function)
 * [The `parse-lambda` Function](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Parser#the-parse-lambda-function)
 
-### [Chapter 7: Code Generation](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Code-Generation)
+### [Chapter 7: Type Checking](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Type-Checking)
+* [Defining a Type Context](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Type-Checking#defining-a-type-context)
+* [Parsing a Type Definition](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Type-Checking#parsing-a-type-definition)
+* [Enumerating Inference Cases](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Type-Checking#enumerating-inference-cases)
+* [Infer Type of an Ascription](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Type-Checking#infer-type-of-an-ascription)
+* [Infer Type of a Literal](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Type-Checking#infer-type-of-a-literal)
+* [Infer Type of a Variable](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Type-Checking#infer-type-of-a-variable)
+* [Infer Type of an Application](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Type-Checking#infer-type-of-an-application)
+* [Infer Type of a Lambda](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Type-Checking#infer-type-of-a-lambda)
+
+### [Chapter 8: Code Generation](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Code-Generation)
 * [The Expression Datatype](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Code-Generation#the-expression-structure)
 * [The `compile-expr` Function](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Code-Generation#the-compile-expr-function)
 * [Codegen `this` Expressions](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Code-Generation#codegen-this-expressions)
@@ -63,14 +73,4 @@ Binary targets are just as easy to write, but harder to read.
 * [Codegen Cons Expressions](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Code-Generation#codegen-cons-expressions)
 * [Codegen Nil Expressions](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Code-Generation#codegen-nil-expressions)
 * [Codegen Variable Expressions](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Code-Generation#codegen-variable-expressions)
-
-### [Chapter 8: Type Checking](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Type-Checking)
-* [Defining a Type Context](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Type-Checking#defining-a-type-context)
-* [Parsing a Type Definition](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Type-Checking#parsing-a-type-definition)
-* [Enumerating Inference Cases](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Type-Checking#enumerating-inference-cases)
-* [Infer Type of an Ascription](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Type-Checking#infer-type-of-an-ascription)
-* [Infer Type of a Literal](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Type-Checking#infer-type-of-a-literal)
-* [Infer Type of a Variable](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Type-Checking#infer-type-of-a-variable)
-* [Infer Type of an Application](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Type-Checking#infer-type-of-an-application)
-* [Infer Type of a Lambda](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Type-Checking#infer-type-of-a-lambda)
 
