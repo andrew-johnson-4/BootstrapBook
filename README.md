@@ -63,8 +63,6 @@ Binary targets are just as easy to write, but harder to read.
 * [Codegen `local` Expressions](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Code-Generation#codegen-local-expressions)
 * [Codegen `set` Expressions](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Code-Generation#codegen-set-expressions)
 * [Codegen `match` Expressions](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Code-Generation#codegen-match-expressions)
-* [Codegen `foreach-atom` Expressions](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Code-Generation#codegen-foreach-atom-expressions)
-* [Codegen `foreach-char` Expressions](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Code-Generation#codegen-foreach-char-expressions)
 * [Codegen `while` Expressions](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Code-Generation#codegen-while-expressions)
 * [Codegen `if` Expressions](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Code-Generation#codegen-if-expressions)
 * [Codegen Function Application Expressions](https://github.com/andrew-johnson-4/BootstrapBook/wiki/Code-Generation#codegen-function-application-expressions)
